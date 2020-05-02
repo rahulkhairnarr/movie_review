@@ -17,7 +17,7 @@
   - $ cd movie_review                     # Browse into the project directory
   - $ python manage.py runserver    # Start the server
 2. To be able to Install all required package through the terminal
-  - $ pip install requirements.txt           # installs HTTPie package
+  - $ pip install requirements.txt           # installs required package
 3. API for user to Sign up 
   - CLI: curl --location --request POST 'http://localhost:8000/signup/' \
         --header 'Content-Type: application/json' \
